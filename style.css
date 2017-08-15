@@ -21,6 +21,10 @@
 a{
   color: black;
 }
+.div-social{
+  text-align: center;
+  margin: 10px auto;
+}
 h2{
   margin-bottom: 10px;
   text-align: center;

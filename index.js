@@ -9784,7 +9784,7 @@ var App = function App() {
       ),
       'hernan21112001@gmail.com',
       _react2.default.createElement('br', null),
-      'Nu\xF1oa, Santiago, CL'
+      '\xD1u\xF1oa, Santiago, CL'
     ),
     _react2.default.createElement(_skills2.default, null),
     _react2.default.createElement(_projects2.default, null),
@@ -22493,7 +22493,28 @@ var PersonalInfo = function PersonalInfo() {
     _react2.default.createElement(
       'p',
       null,
-      'Soy Autodidacta, principalmente gracias a FreeCodeCamp por darme un plan el cual puedo seguir, en donde ya tengo 2 certificados uno de Front-End Development y otro de Visualizaci\xF3n de Informaci\xF3n, y tambien gracias a el t\xEDpico youtube y stack overflow en los cuales a veces me he quedado asombrado por horas al ver todo el conocimiento que me falta por adquirir, sin nada m\xE1s que decir, me encanta la programacion y quizas postule como voluntario para su compa\xF1ia (ComparaOnline) con relativamente poca experiencia, pero estoy seguro de que dare lo mejor de mi para no quedarme atras y aprender todo lo posible.'
+      'Soy Autodidacta, principalmente gracias a FreeCodeCamp por darme un plan el cual puedo seguir, en donde ya tengo 2 certificados uno de Front-End Development y otro de Visualizaci\xF3n de Informaci\xF3n, y tambi\xE9n gracias a el t\xEDpico youtube y stack overflow en los cuales a veces me he quedado asombrado por horas al ver todo el conocimiento que me falta por adquirir, sin nada m\xE1s que decir, me encanta la programaci\xF3n y quizas postule como voluntario para su compa\xF1\xEDa (ComparaOnline) con relativamente poca experiencia, pero estoy seguro de que dar\xE9 lo mejor de mi para no quedarme atr\xE1s y aprender todo lo posible.'
+    ),
+    _react2.default.createElement(
+      'div',
+      { className: 'div-social' },
+      _react2.default.createElement(
+        'a',
+        { target: '_blank', href: 'https://www.linkedin.com/in/hernan-j-m-1a0759139/' },
+        'LinkedIn'
+      ),
+      ' | ',
+      _react2.default.createElement(
+        'a',
+        { target: '_blank', href: 'https://github.com/hernanmendez' },
+        'GitHub'
+      ),
+      ' | ',
+      _react2.default.createElement(
+        'a',
+        { target: '_blank', href: 'https://www.freecodecamp.org/hernanmendez' },
+        'FreeCodeCamp'
+      )
     )
   );
 };
@@ -22524,7 +22545,7 @@ var Projects = function Projects() {
     _react2.default.createElement(
       'h2',
       null,
-      'Projectos'
+      'Proyectos'
     ),
     _react2.default.createElement(
       'div',
@@ -22537,13 +22558,13 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'p',
         null,
-        'Soy un contribuidor activo del projecto ',
+        'Soy un contribuidor activo del proyecto ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'http://www.buzzybee.io' },
           'BuzzyBee'
         ),
-        ' cuyo proposito es ayudar a encontrar trabajo a desarrolladores de software ubicados principalmente en el estado de California, Estados Unidos. Este es el primer projecto en el que he participado como un desarrollador Full-Stack, usando tambien herramientas como grunt.'
+        ' cuyo proposito es ayudar a encontrar trabajo a desarrolladores de software ubicados principalmente en el estado de California, Estados Unidos. Este es el primer proyecto en el que he participado como un desarrollador Full-Stack, usando tambi\xE9n herramientas como grunt.'
       )
     ),
     _react2.default.createElement(
@@ -22552,7 +22573,7 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'h3',
         null,
-        'Projectos de ',
+        'Proyectos de ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'https://www.freecodecamp.org' },
@@ -22562,7 +22583,7 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'p',
         null,
-        'Tengo Multiples Projectos de FCC entre ellos: Un Juego Roguelike hecho con React, Una \'leaderboard\' hecha con Redux, entre muchos otros, puede verlos todos En Mi ',
+        'Tengo M\xFAltiples Proyectos de FCC entre ellos: Un Juego Roguelike hecho con React, Una \'leaderboard\' hecha con Redux, entre muchos otros, puede verlos todos En Mi ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'https://www.freecodecamp.org/hernanmendez' },
