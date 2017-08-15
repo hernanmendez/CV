@@ -11,7 +11,7 @@ var App = () => {
         <h1>Hernán Méndez</h1>
         hernan21112001@gmail.com
         <br />
-        Nuñoa, Santiago, CL
+        Ñuñoa, Santiago, CL
       </p>
       <Skills />
       <Projects />
