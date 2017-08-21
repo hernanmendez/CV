@@ -9782,7 +9782,7 @@ var App = function App() {
         null,
         'Hern\xE1n M\xE9ndez'
       ),
-      'hernan21112001@gmail.com',
+      'hernanjcode@gmail.com',
       _react2.default.createElement('br', null),
       '\xD1u\xF1oa, Santiago, CL'
     ),
@@ -22446,7 +22446,7 @@ var Skills = function Skills() {
     _react2.default.createElement(
       'h2',
       null,
-      'Mis Habilidades'
+      'My skills'
     ),
     _react2.default.createElement(
       'div',
@@ -22493,7 +22493,7 @@ var PersonalInfo = function PersonalInfo() {
     _react2.default.createElement(
       'p',
       null,
-      'Soy Autodidacta, principalmente gracias a FreeCodeCamp por darme un plan el cual puedo seguir, en donde ya tengo 2 certificados uno de Front-End Development y otro de Visualizaci\xF3n de Informaci\xF3n, y tambi\xE9n gracias a el t\xEDpico youtube y stack overflow en los cuales a veces me he quedado asombrado por horas al ver todo el conocimiento que me falta por adquirir, sin nada m\xE1s que decir, me encanta la programaci\xF3n y quizas postule como voluntario para su compa\xF1\xEDa (ComparaOnline) con relativamente poca experiencia, pero estoy seguro de que dar\xE9 lo mejor de mi para no quedarme atr\xE1s y aprender todo lo posible.'
+      'I\'m a self-taught, mainly thanks to FreeCodeCamp for giving me an structured learning plan, where I\'ve already achieved 2 certificates one on Front-End Development y and another one on Data Visualization, I also have to thank youtube and stack overflow, places where sometimes I realize how little I know and how much is left to learn, with nothing left to say, programming is my passion'
     ),
     _react2.default.createElement(
       'div',
@@ -22545,7 +22545,7 @@ var Projects = function Projects() {
     _react2.default.createElement(
       'h2',
       null,
-      'Proyectos'
+      'Projects'
     ),
     _react2.default.createElement(
       'div',
@@ -22558,13 +22558,13 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'p',
         null,
-        'Soy un contribuidor activo del proyecto ',
+        'I\'m an active contributor of the ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'http://www.buzzybee.io' },
           'BuzzyBee'
         ),
-        ' cuyo proposito es ayudar a encontrar trabajo a desarrolladores de software ubicados principalmente en el estado de California, Estados Unidos. Este es el primer proyecto en el que he participado como un desarrollador Full-Stack, usando tambi\xE9n herramientas como grunt.'
+        ' project, which aims to help other software developers to get job opportunities and is the first project where I\'ve participated as a full-stack developer'
       )
     ),
     _react2.default.createElement(
@@ -22573,7 +22573,7 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'h3',
         null,
-        'Proyectos de ',
+        'Projects from ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'https://www.freecodecamp.org' },
@@ -22583,11 +22583,11 @@ var Projects = function Projects() {
       _react2.default.createElement(
         'p',
         null,
-        'Tengo M\xFAltiples Proyectos de FCC entre ellos: Un Juego Roguelike hecho con React, Una \'leaderboard\' hecha con Redux, entre muchos otros, puede verlos todos En Mi ',
+        'I have Multiple projects on FCC some of them are: A Roguelike game made with react, a leaderboard using redux, among many others, you can see them all here on my ',
         _react2.default.createElement(
           'a',
           { target: '_blank', href: 'https://www.freecodecamp.org/hernanmendez' },
-          'perfil de FreeCodeCamp'
+          'FreeCodeCamp profile'
         )
       )
     )

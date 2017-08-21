@@ -3,14 +3,14 @@ import React from 'react'
 var Projects = () => {
   return(
     <div className='projects-container'>
-      <h2>Proyectos</h2>
+      <h2>Projects</h2>
       <div className='project'>
         <h3>BuzzyBee.io</h3>
-        <p>Soy un contribuidor activo del proyecto <a target='_blank' href='http://www.buzzybee.io'>BuzzyBee</a> cuyo proposito es ayudar a encontrar trabajo a desarrolladores de software ubicados principalmente en el estado de California, Estados Unidos. Este es el primer proyecto en el que he participado como un desarrollador Full-Stack, usando también herramientas como grunt.</p>
+        <p>I'm an active contributor of the <a target='_blank' href='http://www.buzzybee.io'>BuzzyBee</a> project, which aims to help other software developers to get job opportunities and is the first project where I've participated as a full-stack developer</p>
       </div>
       <div className='project'>
-        <h3>Proyectos de <a target='_blank' href='https://www.freecodecamp.org'>FreeCodeCamp</a></h3>
-        <p>Tengo Múltiples Proyectos de FCC entre ellos: Un Juego Roguelike hecho con React, Una 'leaderboard' hecha con Redux, entre muchos otros, puede verlos todos En Mi <a target='_blank' href='https://www.freecodecamp.org/hernanmendez'>perfil de FreeCodeCamp</a></p>
+        <h3>Projects from <a target='_blank' href='https://www.freecodecamp.org'>FreeCodeCamp</a></h3>
+        <p>I have Multiple projects on FCC some of them are: A Roguelike game made with react, a leaderboard using redux, among many others, you can see them all here on my <a target='_blank' href='https://www.freecodecamp.org/hernanmendez'>FreeCodeCamp profile</a></p>
       </div>
     </div>
   )

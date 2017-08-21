@@ -5,7 +5,7 @@ var skills = ['HTML5/CSS3','CSS Animations', 'Javascript', 'Bootstrap', 'SASS', 
 var Skills = () => {
   return(
     <div className='skills-container'>
-      <h2>Mis Habilidades</h2>
+      <h2>My skills</h2>
       <div className='skills'>
         {
           skills.map( skill => <div className='skill'>{ skill }</div>)

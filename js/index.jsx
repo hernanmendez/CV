@@ -9,7 +9,7 @@ var App = () => {
     <div className='container'>
       <p>
         <h1>Hernán Méndez</h1>
-        hernan21112001@gmail.com
+        hernanjcode@gmail.com
         <br />
         Ñuñoa, Santiago, CL
       </p>
